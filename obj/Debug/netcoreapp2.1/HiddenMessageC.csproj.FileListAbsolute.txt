@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\App\HiddenMessageC\bin\Debug\netcoreapp2.1\HiddenMessageC.deps.json
+C:\Users\sergi\source\repos\App\HiddenMessageC\bin\Debug\netcoreapp2.1\HiddenMessageC.runtimeconfig.json
+C:\Users\sergi\source\repos\App\HiddenMessageC\bin\Debug\netcoreapp2.1\HiddenMessageC.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App\HiddenMessageC\bin\Debug\netcoreapp2.1\HiddenMessageC.dll
+C:\Users\sergi\source\repos\App\HiddenMessageC\bin\Debug\netcoreapp2.1\HiddenMessageC.pdb
+C:\Users\sergi\source\repos\App\HiddenMessageC\obj\Debug\netcoreapp2.1\HiddenMessageC.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App\HiddenMessageC\obj\Debug\netcoreapp2.1\HiddenMessageC.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App\HiddenMessageC\obj\Debug\netcoreapp2.1\HiddenMessageC.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App\HiddenMessageC\obj\Debug\netcoreapp2.1\HiddenMessageC.dll
+C:\Users\sergi\source\repos\App\HiddenMessageC\obj\Debug\netcoreapp2.1\HiddenMessageC.pdb
